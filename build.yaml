@@ -19,5 +19,5 @@
 #
 ---
 include:
-  - board: nice_nano_v2
+  - board: nice60
   shield: nice60
