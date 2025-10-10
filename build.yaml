@@ -18,5 +18,4 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
-	- board: nice_nano_v2
-	  shield: nice60
+- board: nice60
